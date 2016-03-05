@@ -1,0 +1,12 @@
+c:\users\student\documents\visual studio 2015\Projects\JimzFlagsThingyExample\JimzFlagsThingyExample\bin\Debug\JimzFlagsThingyExample.exe.config
+c:\users\student\documents\visual studio 2015\Projects\JimzFlagsThingyExample\JimzFlagsThingyExample\bin\Debug\JimzFlagsThingyExample.exe
+c:\users\student\documents\visual studio 2015\Projects\JimzFlagsThingyExample\JimzFlagsThingyExample\bin\Debug\JimzFlagsThingyExample.pdb
+c:\users\student\documents\visual studio 2015\Projects\JimzFlagsThingyExample\JimzFlagsThingyExample\obj\Debug\JimzFlagsThingyExample.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\JimzFlagsThingyExample\JimzFlagsThingyExample\obj\Debug\JimzFlagsThingyExample.frmCountries.resources
+c:\users\student\documents\visual studio 2015\Projects\JimzFlagsThingyExample\JimzFlagsThingyExample\obj\Debug\JimzFlagsThingyExample.Properties.Resources.resources
+c:\users\student\documents\visual studio 2015\Projects\JimzFlagsThingyExample\JimzFlagsThingyExample\obj\Debug\JimzFlagsThingyExample.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2015\Projects\JimzFlagsThingyExample\JimzFlagsThingyExample\obj\Debug\JimzFlagsThingyExample.exe
+c:\users\student\documents\visual studio 2015\Projects\JimzFlagsThingyExample\JimzFlagsThingyExample\obj\Debug\JimzFlagsThingyExample.pdb
+C:\Users\joshua\Documents\Visual Studio 2015\Projects\JimzFlagsThingyExample\JimzFlagsThingyExample\bin\Debug\JimzFlagsThingyExample.exe.config
+C:\Users\joshua\Documents\Visual Studio 2015\Projects\JimzFlagsThingyExample\JimzFlagsThingyExample\obj\Debug\JimzFlagsThingyExample.exe
+C:\Users\joshua\Documents\Visual Studio 2015\Projects\JimzFlagsThingyExample\JimzFlagsThingyExample\obj\Debug\JimzFlagsThingyExample.pdb
